@@ -56,3 +56,13 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
   (2 Leerzeichen links vom Rechteck ausgegeben)
   
   ![](rechteck3.png)
+  
+- **zeichne3Quadrate(seite:int)**
+
+  Beispiel: seite = 3
+  
+  Verwende zum Zeichnen 
+  dieser Figur die Methode:
+  *zeichneRechteckLeer(...)*
+
+  ![](rechteck4.png)
