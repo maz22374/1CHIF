@@ -27,8 +27,18 @@ Aufgabe 12.
   den Endwerten **bis**... hochzählen. Liegt die Startzeit nach der Endzeit, dann sind die Werte vorher zu
   tauschen.
   
-  Beispiel: *simuliereUhr(12,58,13,3)* gibt aus:
+  Beispiel: *simuliereUhr(12, 58, 13, 3)* gibt aus:
   
   ![](uhr.png)
   
+### Teil 2 - „geschachtelte Schleifen“:
+
+Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der zu zeichnenden Figur an.
+
+- **zeichneRechteckVoll(hoehe:int, breite:int)**
   
+  Beispiel: hoehe = 3, breite 5
+  
+  ![](rechteck1.png)
+
+
