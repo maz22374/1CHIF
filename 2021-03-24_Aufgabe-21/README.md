@@ -70,6 +70,7 @@ Der als Parameter übergebene Wagon wird hinzugefügt, sofern noch ein Feld im A
 **Rückgabewert:** *true* bei erfolgreichem Hinzufügen, andernfalls *false* (auch bei Übergabe von *null*)
 
 **getAnzahlFreieSitzplaetze(...):**
+
 **Rückgabewert:** 
 > wenn Parameter klasse = 0 ... die Anzahl aller freien Sitzplätze in allen Wagons,
 
