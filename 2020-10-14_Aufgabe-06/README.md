@@ -1,6 +1,8 @@
 # Aufgabe 06 – einfacher Ticketautomat
 UML-Diagramm:
+
 ![](uml.png)
+
 Dieser einfache Automat enthält noch einige Fehler. Teste den Automaten und notiere alle
 erkannten Fehler:
 - Aufruf von *getPrice()*, um den Preis einer Fahrkarte zu ermitteln
