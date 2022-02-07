@@ -47,3 +47,12 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
   
   ![](rechteck2.png)
 
+- **zeichneRechteckLeer(hoehe:int, breite:int, abstand:int)**
+
+  Beispiel: hoehe = 3, breite = 5, abstand = 0
+  
+  Beispiel: hoehe = 3, breite = 5, abstand = 2
+  
+  (2 Leerzeichen links vom Rechteck ausgegeben)
+  
+  ![](rechteck3png)
