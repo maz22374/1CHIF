@@ -51,7 +51,8 @@ einzugeben, bis eine gültige Eingabe erfolgt ist (Realisierung siehe Anmerkunge
     Dabei wird immer ausgegeben, ob die eingegebene Zahl zu groß oder zu klein war.
   
   > Endet mit der Ausgabe der Anzahl der Versuche, sobald die Zufallszahl erraten wurde
-    **Die Unterpunkte a) bis d) verwenden die Methoden des Zahlenraten-Objekts spiel!**
+  
+    **Die Unterpunkte 1) bis 4) verwenden die Methoden des Zahlenraten-Objekts spiel!**
     
 #### Hinweise:
 - **Ablauf des Spiels:** Man erstellt ein *Konsole*-Objekt und ruft die Methode *spielen()* auf.
