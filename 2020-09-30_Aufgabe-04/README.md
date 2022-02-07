@@ -2,6 +2,7 @@
 Zu schreiben sind folgende Klassen:
 ### a) Klasse Rechteck (UML-Diagramm):
 ![](rechteck.png)
+
 Hinweise:
 - Der Konstruktor soll die set-Methoden verwenden
 - *printInfo()* soll alle Informationen des Rechtecks auf die Konsole ausgeben.
@@ -20,6 +21,7 @@ verwenden – d.h. **keine Formel in der printInfo()-Methode!**
 
 ### b) Klasse Kreis:
 ![](kreis.png)
+
 Hinweise:
 - einen Überblick der einfachen Datentypen von Java findet Ihr auf:
 http://de.wikibooks.org/wiki/Java_Standard:_Primitive_Datentypen
@@ -32,6 +34,7 @@ Dafür einfach ein Attribut pi mit dem double-Wert 3.14159265 definieren.
 
 ### c) Klasse Quader:
 ![](quader.png)
+
 Hinweise:
 - Die Formeln für die Oberfläche und das Volumen eines Quaders sollten bekannt sein!
 - Masse = Dichte * Volumen
