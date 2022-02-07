@@ -41,4 +41,5 @@ Dir, was Löschen in diesem Fall bedeutet. Eine Zuweisung von 0 wird meist falsc
 Tiefstwerte an, die seit der letzten Rückstellung ermittelt
 wurden. Rückstellung über gut erreichbare Drucktaste.
 Messbereich -38 °C bis +50 °C.
+
 ![](thermometer.png)
