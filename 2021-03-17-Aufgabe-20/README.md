@@ -28,7 +28,7 @@ generiert und die Anzahl der Versuche auf 0 gesetzt ( Spielbeginn). Mittels wied
 Methode **rateZahl(...)**, kann man nun versuchen die Zahl zu erraten. Die Anzahl der benötigten
 Versuche kann abschließend mit der Methode **getVersuche()** abgefragt werden.
 
-#### Teil 2)
+### Teil 2)
 Eine zusätzliche Klasse *Konsole* soll es ermöglichen das Zahlenratespiel mittels Ein- und Ausgaben
 im Terminal-Fenster von BlueJ zu bedienen. Zum Einlesen der Benutzereingabe ist die Scanner-
 Klasse zu verwenden, Ausgaben erfolgen mittels *System.out.print(...)* bzw. *println(...)*.
