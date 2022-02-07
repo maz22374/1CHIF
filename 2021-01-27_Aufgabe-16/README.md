@@ -57,7 +57,7 @@ Diese Schritte werden solange wiederholt, bis keine weiteren Zahlen mehr zu vera
 werden auf die Konsole ausgegeben
 
 
-- **Erstelle eine Testklasse mit einer Methode test() in der:**
+- **Erstelle eine Testklasse mit einer Methode *test()* in der:**
 
   > ein Zahlenarray-Objekt mit einer bestimmten Anzahl von Feldern erzeugt wird,
   
