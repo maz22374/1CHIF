@@ -21,7 +21,7 @@ Möglichkeiten um konkrete Werte abzufragen **(get-Methoden)** oder Werte zu än
 - Nun die Attribute definieren.
 Bitte regelmäßig übersetzen (Compile), denn dadurch werden Fehler frühzeitig erkannt und der aktuelle
 Stand des Projektes wird gespeichert!
-- Ein Person-Objekt erzeugen und mit dem Inspektorfenster nachsehen, welche Werte den einzelnen
+- Ein *Person*-Objekt erzeugen und mit dem Inspektorfenster nachsehen, welche Werte den einzelnen
 Attributen zugewiesen wurden!
 - Jetzt die noch fehlenden get- und set-Methoden sowie die printInfo()-Methode schreiben und testen.
 **Testen: Die Werte aller Attribute einzeln abfragen und ändern!
