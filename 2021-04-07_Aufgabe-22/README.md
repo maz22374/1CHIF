@@ -8,9 +8,9 @@
 
 - **main(String[] args):**
   Initialisiert ein TicTacToe Spielfeld mit 9 Feldern und speichert in jedes Feld -1. 
-- **checkWinner(int[] board): int**
+- **checkWinner(int[] board): int:**
   Überprüft die Gewinnsituationen eines TicTacToe und gibt den Gewinner zurück.
-- **printBoard(int[] meinBoard)**
+- **printBoard(int[] meinBoard):**
   Gibt das Spielfeld auf der Konsole aus.
 
 ### Klasse Player:
