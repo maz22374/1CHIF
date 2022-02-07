@@ -45,7 +45,7 @@ Setzt die Instanzvariablen auf die angegebenen Werte.
 **Achtung:** dabei sind natürlich Überprüfungen / Korrekturen durchzuführen
 (diese sollten an entsprechenden set-Methoden delegiert werden).
 
-**tanken( ) : float**
+**tanken() : float**
 
 Füllt den Tank randvoll und gibt die getankte Treibstoffmenge zurück.
 
@@ -64,6 +64,51 @@ Rückgabewert ist die tatsächlich getankte Treibstoffmenge in Litern.
 
 **Zusatzfrage: Was passiert, wenn der Typ des Betrages von int auf float geändert wird? Warum?**
 
+**getKilometerstand() : int**
 
+Gibt den aktuellen Kilometerstand zurück.
 
+**getTankinhalt() : float**
 
+Gibt den aktuellen Tankinhalt in Litern zurück.
+
+**getRestreichweite() : float**
+
+Berechnet die Restreichweite (basierend auf dem Normverbrauch und dem aktuellen
+Tankinhalt) und gibt diesen Wert zurück.
+
+**fahren() : int**
+
+Fährt soweit, als es der aktuelle Tankinhalt zulässt. Dabei wird natürlich der Kilometerstand
+entsprechend erhöht. Rückgabewert ist die tatsächlich zurückgelegte Strecke.
+
+**fahren(strecke : int) : int**
+
+Fährt die angegebene Strecke. Dabei erhöht sich der Kilometerstand und reduziert sich der
+Tankinhalt entsprechend.
+
+**Achtung:** wird eine zu große Strecke eingegeben, dann kann natürlich nicht wirklich soweit
+gefahren werden.
+Rückgabewert soll auch hier die tatsächlich zurückgelegte Strecke sein!
+
+**printInfo()**
+
+Gibt die Informationen zu diesem Fahrzeug auf der Konsole aus. Zum Beispiel:
+
+> Normverbrauch: 4.9 l/100km
+
+> aktueller Tankinhalt: 33.5 l / Fassungsvermögen: 50 l
+
+> Kilometerstand: 40000 km
+
+> Kennzeichen: “W 1234 TX“ - als Taxi angemeldet
+
+Zum Kennzeichen:
+
+- gibt es kein Kennzeichen, dann lautet die letzte Zeiler der Ausgabe:
+Kennzeichen: *Auto nicht angemeldet*
+- für normale Kennzeichen wird einfach nur das Kennzeichen ausgegeben, z.B.:
+Kennzeichen: *“TU 423 AL“*
+- bei Taxis endet das Kennzeichen mit *„TX“*, hier soll zB:
+Kennzeichen: *“W 1234 TX“ - als Taxi angemeldet*
+ausgegeben werden
