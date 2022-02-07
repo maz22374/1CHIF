@@ -34,9 +34,11 @@ Werden die Daten des Objekts korrekt auf das Terminal-Fenster ausgegeben?**
 
 ```java
 public class Person {
+    
     private String name = "Paul";
     private int geburtsjahr = 1999;
     private boolean brille = true;
+    
     public String getName() {
         return this.name;
     }
