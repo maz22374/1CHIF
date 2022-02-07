@@ -55,6 +55,7 @@ erhöht sich mit jedem Schleifendurchlauf um den Wert der Laufvariable (*i*) (..
   Beispiel: zahl = 123, Ziffernsumme: **1**+**2**+**3** = 6
   
 **Tipp:**
+
 ![](modulo.png)
 
 **Realisiere zumindest eines der Schleifenbeispiele auch in der zweiten Schleifenvariante
