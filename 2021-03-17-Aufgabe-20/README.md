@@ -76,4 +76,6 @@ einzugeben, bis eine gültige Eingabe erfolgt ist (Realisierung siehe Anmerkunge
   einmal spielen möchte und – abhängig von einer Benutzereingabe - ein neuer Durchgang
   gestartet oder das Spiel beendet wird.
 - Erweitere das Spiel um die Möglichkeit auch den unteren Bereich der zu erratenden Zahl
-  einzugeben. D.h. statt [0, max] kann ein [min, max]-Bereich angegeben werden.
+  einzugeben. 
+  
+  D.h. statt [0, max] kann ein [min, max]-Bereich angegeben werden.
