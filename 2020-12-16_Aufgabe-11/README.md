@@ -16,7 +16,7 @@ Zu erstellen ist eine Klasse Schleife
 - *schleife1()* Gibt die Zahlen von 0 bis zu limit aus.
 
   Achtung: *limit* kann auch negativ sein → die Ausgabe ist dann: 0 -1 -2...
-- schleife2(start : int) Gibt von start bis zu *limit* aus.
+- *schleife2(start : int)* Gibt von start bis zu *limit* aus.
 
   *start* kleiner *limit:* Schrittweite +1
  
