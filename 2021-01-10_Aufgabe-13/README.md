@@ -66,3 +66,11 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
   *zeichneRechteckLeer(...)*
 
   ![](rechteck4.png)
+
+- **zeichneDreieck(hoehe:int, leer:boolean)**
+
+  Beispiel: hoehe = 5, leer = false
+  
+  Beispiel: hoehe = 5, leer = true 
+  
+  ![](dreieck.png)
