@@ -1,4 +1,4 @@
-# Aufgabe 20) Zahlenraten (Schleifen, Scanner- & Random-Klasse, Assoziationen)
+# Aufgabe 20) - Zahlenraten (Schleifen, Scanner- & Random-Klasse, Assoziationen)
 
 ### Teil 1)
 Die Klasse *Zahlenraten* stellt Methoden für ein einfaches Ratespiel zur Verfügung:
