@@ -1,4 +1,4 @@
-### Aufgabe 08 – if, gleichnamige Methoden (Signatur), typecast
+# Aufgabe 08 – if, gleichnamige Methoden (Signatur), typecast
 
 Zu erstellen ist folgenden Klasse:
 
