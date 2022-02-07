@@ -40,5 +40,10 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
   Beispiel: hoehe = 3, breite 5
   
   ![](rechteck1.png)
-
+  
+- **zeichneRechteckVoll(hoehe:int, breite:int, zeichen:String)**
+  
+  Beispiel: hoehe = 3, breite = 5, zeichen = “O“
+  
+  ![](rechteck2.png)
 
