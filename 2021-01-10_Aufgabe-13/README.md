@@ -74,3 +74,17 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
   Beispiel: hoehe = 5, leer = true 
   
   ![](dreieck.png)
+
+- **zeichneDreieckPlusMinus(hoehe:int)**
+
+  Beispiel: hoehe = 4 
+  
+  ![](dreieckplusminus.png)
+
+
+
+
+
+
+
+
