@@ -30,4 +30,4 @@ Es soll eine Methode ***setBike(...)*** geben mit der das Ticket für die zusät
 Fahrrades gekauft werden kann. Dieses Ticket kostet das Doppelte eines normalen Tickets.
 
 Wichtig: **Das Attribut price soll immer den vollen Ticketpreis enthalten!**
-D.h. es sind die Methoden getPrice() und printTicket() entsprechend anzupassen
+D.h. es sind die Methoden *getPrice()* und *printTicket()* entsprechend anzupassen
