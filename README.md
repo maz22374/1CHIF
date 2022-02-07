@@ -1,4 +1,4 @@
-# 1CHIF | POS Unterricht der 1. Klasse
+# 1CHIF | POS Unterrichtsunterlagen + erstellte Projekte der 1. Klasse 
 
 ## Synchronisieren des Repositories in einen Ordner
 
