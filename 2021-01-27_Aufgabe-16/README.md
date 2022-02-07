@@ -55,3 +55,14 @@ Diese Schritte werden solange wiederholt, bis keine weiteren Zahlen mehr zu vera
 
 **Letzter Schritt:** Die übrig gebliebenen Zahlen (ungleich -1) sind die Primzahlen zwischen 2 und n und
 werden auf die Konsole ausgegeben
+
+
+- **Erstelle eine Testklasse mit einer Methode test() in der:**
+
+  > ein Zahlenarray-Objekt mit einer bestimmten Anzahl von Feldern erzeugt wird,
+  
+  > dieses Array mit Zufallswerten befüllt wird
+  
+  > und die ausgabeBalken()-Methode aufgerufen wird.
+  
+  > Teste abschließend die eratosthenes()-Methode an einem neuen Zahlenarray-Objekt.
