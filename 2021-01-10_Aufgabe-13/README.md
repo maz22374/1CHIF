@@ -85,7 +85,15 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
 
   ![](parallelogramm.png)
 
+- **zeichneFunktion(anz :int)**
 
+  Beispiel: anz = 6
+  
+  Dargestellt wir die Funktion: ***y = 3 \* x + 2***
+  
+  (**X**-Achse zeigt nach unten)
+  
+  ![](funktion.png)
 
 
 
