@@ -34,7 +34,7 @@ Zu erstellen ist eine Klasse Schleife
 
 - *a_hoch_n(a : int, n : int) : int* berechnet a^n, Rückgabewert ist das Ergebnis
 
-  Erklärung: a^0 = 1 , a^1 = a, a^2 = a*a, a^3 = a*a*a, ...
+  Erklärung: a^0 = 1 , a^1 = a, a^2 = a\*a, a^3 = a\*a\*a, ...
   
   Erweiterung für negative Hochzahlen: a^-n = 1/a^n
   
