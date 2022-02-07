@@ -26,23 +26,23 @@ Die Groß- und Kleinschreibung bei der Ausgabe ist zu beachten. Die Buchstaben s
 Um der Reihe nach auf einzelne Buchstaben zuzugreifen, können folgende Methoden der String-
 Klasse verwendet werden (siehe auch JavaDoc):
 
-*charAt(int index):* 
+***charAt(int index):*** 
 
 gibt einen bestimmten Buchstaben eines Textes zurück
 (Typ char, ob index bei 0 oder 1 beginnt **→** siehe JavaDoc)
 
-*length()*
+***length()***
 gibt die Anzahl der Buchstaben eines Textes zurück
 
 Um ein Wort oder einzelne Buchstaben in Groß- bzw. Kleinbuchstaben umzuwandeln gibt es
 folgende Möglichkeiten:
 
-*toUpperCase()* bzw. *toLowerCase()*
+***toUpperCase()*** bzw. ***toLowerCase()***
 
 gibt eine Kopie des Textes zurück, der nur aus
 Groß- bzw. Kleinbuchstaben besteht.
 
-*Character.toUpperCase(char ch)* bzw. *Character.toLowerCase(char ch)* ... gibt
+***Character.toUpperCase(char ch)*** bzw. ***Character.toLowerCase(char ch)*** ... gibt
 den übergebenen Buchstaben als Groß- bzw. Kleinbuchstabe zurück.
 
 Diese statische Methode wird direkt mit Hilfe der Klasse *Character* aufgerufen und benötigt kein
