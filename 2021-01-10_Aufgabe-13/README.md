@@ -55,4 +55,4 @@ Der Parameter *hoehe* gibt immer die Höhe (= Anzahl auszugebender Zeilen) der z
   
   (2 Leerzeichen links vom Rechteck ausgegeben)
   
-  ![](rechteck3png)
+  ![](rechteck3.png)
